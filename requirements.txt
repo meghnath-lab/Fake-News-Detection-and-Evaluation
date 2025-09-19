@@ -1,0 +1,10 @@
+These are all the libraries i used, for my project notebooks :
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+gensim
+
+to install all the necessary libraries we need to run below command:
+pip install -r requirements.txt
