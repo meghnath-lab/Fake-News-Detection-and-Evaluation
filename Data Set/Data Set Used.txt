@@ -1,0 +1,9 @@
+The project utilized a dataset compiled from real-world sources to differentiate between genuine and fake news articles.
+
+Genuine News Articles: The true news articles were collected by scraping content from Reuters.com, a reputable news organization.
+
+Fake News Articles: The fake news articles were gathered from various unreliable platforms that were identified by Politifact and Wikipedia.
+
+Content Focus: The majority of the articles in the dataset are centered around politics and world news.
+
+Download Link: The dataset is publicly available and can be downloaded from Kaggle at the following link: www.kaggle.com/datasets/emineyetm/fake-news-detection-datasets.
