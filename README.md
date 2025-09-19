@@ -1,0 +1,2 @@
+# Fake-News-Detection-and-Evaluation
+AUTUMN INTERNSHIP PROGRAM ON DATA SCIENCE ( IDEAS-TIH)
