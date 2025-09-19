@@ -13,4 +13,4 @@ word2vec_rfc_model.pickle: The saved and trained Random Forest Classifier model.
 AS this files greater than 25Mb i am unable to share at here so i just share a Google drive link to fetch the data sets i just used
  Important Links : 
 
- Drive : 
+ Drive Link : https://drive.google.com/drive/folders/1Rv0s42fhKXWBRuwIUm8G4X5ztDdpYHIR?usp=drive_link
